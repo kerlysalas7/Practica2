@@ -56,7 +56,7 @@ public class Practica2 {
         total = subt - descu;
         
         System.out.println("El total a pagar es: $" + total);
-        
+        System.out.println("Gracias por comprar");
         
       t.close();
     }
